@@ -1,0 +1,751 @@
+{
+  "schemaVersion": 1,
+  "source": "https://tinhlagi.pro/s.m3u",
+  "policy": "Không đưa FLV hoặc URL không phải HLS vào RadioTV 0.1; không lưu chỉ dẫn hay khóa DRM.",
+  "entries": [
+    {
+      "name": "16:00 31/08 Iran U20 vs Palestine U20 (BLV STING) [flv]",
+      "streamUrl": "https://live05.meung.app/live/14707124.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Nhật Bản U20 vs Kuwait U20 (BLV FANTA) [flv]",
+      "streamUrl": "https://live05.meung.app/live/16226575.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:30 31/08 Myanmar U20 vs Sri Lanka U20 (BLV PEPSI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/59444581.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:00 31/08 Lebanon U20 vs Hàn Quốc U20 (BLV MONSTER) [flv]",
+      "streamUrl": "https://live05.meung.app/live/75915087.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:00 31/08 Hàn Quốc vs Saudi Arabia (BLV 247) [flv]",
+      "streamUrl": "https://live05.meung.app/live/90865415.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:10 31/08 Nhật Bản vs Qatar (BLV Cozy) [flv]",
+      "streamUrl": "https://live05.meung.app/live/87379114.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:30 31/08 Trung quốc vs Liban (BLV POCARI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/19919577.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Australia U20 vs Laos U20 (BLV FANTA) [flv]",
+      "streamUrl": "https://live05.meung.app/live/16226575.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Sadarakpat vs Gandzasar Kapan (BLV PEPSI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/59444581.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Persib Bandung vs Manila Digger FC (BLV WARRIOR) [flv]",
+      "streamUrl": "https://live05.meung.app/live/97885009.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Vietnam U20 vs Korea DPR U20 (BLV REVIVE) [flv]",
+      "streamUrl": "https://live05.meung.app/live/33982309.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Vietnam U20 vs Korea DPR U20 (BLV 7UP) [flv]",
+      "streamUrl": "https://live05.meung.app/live/78905744.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Vietnam U20 vs Korea DPR U20 (BLV SODA) [flv]",
+      "streamUrl": "https://live05.meung.app/live/02456966.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:30 31/08 Thailand U20 vs United Arab Emirates U20 (BLV SPRITE) [flv]",
+      "streamUrl": "https://live05.meung.app/live/75748097.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "21:00 31/08 Asyut Petroleum vs NBE SC (BLV FANTA) [flv]",
+      "streamUrl": "https://live05.meung.app/live/16226575.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "21:30 31/08 Liepaja vs Riga FC (BLV PEPSI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/59444581.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Inter Turku vs KuPs (BLV MONSTER) [flv]",
+      "streamUrl": "https://live05.meung.app/live/75915087.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Gnistan Helsinki vs TPS (BLV SAMURAI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/07808742.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Hy Lạp vs Tây Ban Nha (BLV 247) [flv]",
+      "streamUrl": "https://live05.meung.app/live/90865415.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:30 31/08 U.S. Lecce vs A.S. Roma (BLV REVIVE) [flv]",
+      "streamUrl": "https://live05.meung.app/live/33982309.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:30 31/08 U.S. Lecce vs A.S. Roma (BLV 7UP) [flv]",
+      "streamUrl": "https://live05.meung.app/live/78905744.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:00 01/09 Sirius vs Malmo FF (BLV PEPSI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/59444581.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:00 01/09 FC Copenhagen vs Sonderjyske (BLV FANTA) [flv]",
+      "streamUrl": "https://live05.meung.app/live/16226575.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:30 01/09 Ý vs Serbia (BLV Cozy) [flv]",
+      "streamUrl": "https://live05.meung.app/live/87379114.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:30 01/09 Osasuna vs Getafe CF (BLV KHÔNG ĐỘ) [flv]",
+      "streamUrl": "https://live05.meung.app/live/41943555.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "01:45 01/09 Atalanta B.C. vs Bologna F.C. 1909 (BLV MONSTER) [flv]",
+      "streamUrl": "https://live05.meung.app/live/75915087.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:00 01/09 Aston Villa vs Arsenal (BLV REVIVE) [flv]",
+      "streamUrl": "https://live05.meung.app/live/33982309.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:00 01/09 Aston Villa vs Arsenal (BLV SODA) [flv]",
+      "streamUrl": "https://live05.meung.app/live/02456966.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:00 01/09 Aston Villa vs Arsenal (BLV WARRIOR) [flv]",
+      "streamUrl": "https://live05.meung.app/live/97885009.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:15 01/09 Benfica vs Estoril (BLV PEPSI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/59444581.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:15 01/09 Braga vs Vitoria Guimaraes (BLV SAMURAI) [flv]",
+      "streamUrl": "https://live05.meung.app/live/07808742.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:30 01/09 FC Barcelona vs Rayo Vallecano (BLV 7UP) [flv]",
+      "streamUrl": "https://live05.meung.app/live/78905744.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:30 01/09 FC Barcelona vs Rayo Vallecano (BLV STING) [flv]",
+      "streamUrl": "https://live05.meung.app/live/14707124.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "05:00 01/09 Defensa y Justicia vs Platense (BLV MOUNTAIN DEW) [flv]",
+      "streamUrl": "https://live05.meung.app/live/87547578.flv",
+      "group": "🔴 COLA TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Indonesia U20 vs Malaysia U20 (NGƯỜI BẠC) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/indo-malay-afcu202.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:00 31/08 Lebanon U20 vs South Korea U20 (NGƯỜI SÓI) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/lebanon-kor-afcu20.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Vietnam U20 vs Korea DPR U20 (NGƯỜI CAT) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/vie-kordpr-afcu20.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Persib Bandung vs Manila Digger FC (NGƯỜI SẮT) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/persib-manila-afcchamp2.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "21:00 31/08 FK Yelimay Semey vs FC Kairat Almaty (NGƯỜI SẮT) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/yelimay-kairat-kazprem.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "22:00 31/08 FC Bukovyna Chernivtsi vs Dynamo Kyiv (NGƯỜI CAT) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/chernivtsi-kyiv-ukrprem.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Ilves Tampere vs HJK Helsinki (NGƯỜI PHÁO) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/ilves-hjk-finveik.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:30 31/08 Lecce vs AS Roma (NGƯỜI DÊ) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/lecce-roma-seriea.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:00 01/09 FC Copenhagen vs Sonderjyske (NGƯỜI CHÈ) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/copenhagen-sonder-densup.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:00 01/09 IK Sirius FK vs Malmo FF (NGƯỜI CÁO) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/sirius-malmo-swe.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:30 01/09 CA Osasuna vs Getafe (NGƯỜI THỎ) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/osasuna-getafe-laliga.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "01:30 01/09 Besiktas JK vs Corum FK (NGƯỜI BẠC) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/besiktas-corum-tursup.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "01:45 01/09 Atalanta vs Bologna (NGƯỜI DÊ) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/atalanta-bologna-seriea.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:00 01/09 Aston Villa vs Arsenal (NGƯỜI PHÁO) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/ast-ars-prem.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:15 01/09 Benfica vs Estoril (NGƯỜI CHÈ) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/benfica-estoril-por.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:30 01/09 FC Barcelona vs Rayo Vallecano (NGƯỜI CÁO) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/barca-rayo-laliga.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "05:00 01/09 Estudiantes La Plata vs Club Atlético Newell's Old Boys (NGƯỜI NẶN) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/laplata-newell-argdiv1.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "06:00 01/09 Remo vs Coritiba SAF _ PR (NGƯỜI SÓI) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/remo-cortiba-brasa.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "07:45 01/09 Univ Catolica vs O.Higgins (NGƯỜI NẶN) [flv]",
+      "streamUrl": "https://flv.lauthaitv.cc/live/ucatolica-higgins-chiliga.flv",
+      "group": "🔴 S8 TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "15:30 31/08 Iraq U20 vs Turkmenistan U20 (TOM)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel4.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "15:30 31/08 Iraq U20 vs Turkmenistan U20 (HD TOM) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-4.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Đài Loan U20 vs Macau U20 (RIO)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel16.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Đài Loan U20 vs Macau U20 (HD RIO) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001788171370-0-0-a17cb64de9799f89a2eef683310b4e9b",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Indonesia U20 vs Malaysia U20 (ASTRA)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel11.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Indonesia U20 vs Malaysia U20 (HD ASTRA) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001788171381-0-0-612cd49b890b6856e537da69c0e804e9",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Iran U20 vs Palestine U20 (NEMO)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel17.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Iran U20 vs Palestine U20 (HD NEMO) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001788171388-0-0-917e17dfeca783a0ccf82ceff09fe5b2",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Nhật Bản U20 vs Kuwait U20 (JOHAN)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel12.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:00 31/08 Nhật Bản U20 vs Kuwait U20 (HD JOHAN) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001788171394-0-0-234bcc24327fac3b230658f690998a76",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:30 31/08 Myanmar U20 vs Sri Lanka U20 (JEAN)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel7.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:30 31/08 Myanmar U20 vs Sri Lanka U20 (HD JEAN) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001788171402-0-0-28202dcee949680b81517cff20703c57",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:00 31/08 Lebanon U20 vs Hàn Quốc U20 (KEN)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel18.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:00 31/08 Lebanon U20 vs Hàn Quốc U20 (HD KEN) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001788171409-0-0-d4171df5ea736965d35fc6685b535c00",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:00 31/08 Hàn Quốc vs Ả Rập Xê Út (STEP)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel26.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:00 31/08 Hàn Quốc vs Ả Rập Xê Út (HD STEP) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-26.flv?auth_key=3000001788171419-0-0-2dddac434bf75015bca08d935b571aec",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "15:00 31/08 Nongshim Esports Academy vs DN SOOPers Challengers (MARTY)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel30.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "15:00 31/08 Nongshim Esports Academy vs DN SOOPers Challengers (HD MARTY) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-30.flv?auth_key=3000001788171426-0-0-4698f24b77ae1729b4e7058a4eb1c8a7",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Việt Nam U20 vs Triều Tiên U20 (BRADY)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel15.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Việt Nam U20 vs Triều Tiên U20 (MAX)",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001788171435-0-0-d7c24411498512cb46731e24c6c662ee",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Việt Nam U20 vs Triều Tiên U20 (MAX)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel6.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Việt Nam U20 vs Triều Tiên U20 (FULL HD BRADY) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001788171444-0-0-d8245ad425c975f96eb06c482816e20c",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:00 31/08 Syria U20 vs Ấn Độ U20 (TONI)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel9.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:00 31/08 Syria U20 vs Ấn Độ U20 (HD TONI) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001788171451-0-0-b248b9ac079075d50fd9cb4664eb560f",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "20:00 31/08 Persib Bandung vs Manila Digger FC (FILIP)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel19.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "20:00 31/08 Persib Bandung vs Manila Digger FC (HD FILIP) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001788171457-0-0-d2868b5a3f92c1094a4778fb8c0f3bea",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:00 31/08 Thái Lan vs Mông Cổ (ALAN)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel25.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:00 31/08 Thái Lan vs Mông Cổ (HD ALAN) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001788171469-0-0-a0c0fb01cc881c8f314c484185d4923b",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:30 31/08 Trung Quốc vs Lebanon (TOMMY)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel29.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:30 31/08 Trung Quốc vs Lebanon (HD TOMMY) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001788171477-0-0-bdf03d013198c72cd80ed28652a03c6b",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "20:00 31/08 Nepal vs Oman (STEP)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel26.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "20:00 31/08 Nepal vs Oman (HD STEP) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-26.flv?auth_key=3000001788171485-0-0-07824f9f47959bb18d46e0ac664b3ca2",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Hy Lạp vs Tây Ban Nha (STEP)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel26.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Hy Lạp vs Tây Ban Nha (HD STEP) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-26.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "01:00 01/09 Bồ Đào Nha vs Georgia (ALAN)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel25.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "01:00 01/09 Bồ Đào Nha vs Georgia (HD ALAN) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-25.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:30 01/09 Iceland vs Thổ Nhĩ Kỳ (STEP)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel26.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:30 01/09 Iceland vs Thổ Nhĩ Kỳ (HD STEP) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-26.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "06:00 01/09 USA vs Colombia (ALAN)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel25.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "06:00 01/09 USA vs Colombia (HD ALAN) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-25.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "06:10 01/09 Canada vs Argentina (TOMMY)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel29.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "06:10 01/09 Canada vs Argentina (HD TOMMY) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-29.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "22:30 31/08 Aryna Sabalenka vs Maria Camila Osorio Serrano (VIC)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel32.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "22:30 31/08 Aryna Sabalenka vs Maria Camila Osorio Serrano (HD VIC) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-32.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:40 31/08 Roman Safiullin vs Carlos Alcaraz Garfia (VIC)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel32.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:40 31/08 Roman Safiullin vs Carlos Alcaraz Garfia (HD VIC) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-32.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "20:00 31/08 Nữ Hà Lan vs Nữ Slovenia (TYSON)",
+      "streamUrl": "https://live2.brenvoxedgenetwork.com/live/channel33.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "20:00 31/08 Nữ Hà Lan vs Nữ Slovenia (HD TYSON) [HD]",
+      "streamUrl": "https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001788171502-0-0-1702d4da30a57160e18ef16d987a1b19",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Nữ Ba Lan vs Nữ Bồ Đào Nha (TYSON)",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel33.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Nữ Ba Lan vs Nữ Bồ Đào Nha (HD TYSON) [HD]",
+      "streamUrl": "https://live2.pro2cdnlive.com/live/channel-33.flv",
+      "group": "🔴 XÔI LẠC Z TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:00 01/09 Aston Villa vs Arsenal (Vịt Nướng) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5NzIyMTkyc2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2RtYjNwNThhNGc5bXlyMm84YzR5bjIyem4.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:30 01/09 FC Barcelona vs Rayo Vallecano (TRÚC BẠCH) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5NzMyNzE5c245bGgxZ3Npa2Q4c2Y2YWVuaGY5dnBvcWRob3phcmVpYzRtZ3R3MW5wMXRjMmVuNDg.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Việt Nam U20 vs Triều Tiên U20 (Sư Tử Trắng) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5ODY4MjAzc2g5dmhtcXZyMjZlcTRtdjJ3YWw5bDZyaWR4amRmbnB2dGhqdXNybDE0dWxvbGZ0NjI.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Việt Nam U20 vs Triều Tiên U20 (ASAHI) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5ODY4MjAzc2hmNTg3OXQ1aHl6a3RiYmo3d2swbnJlNmRoaThkZTRrMGZqMDBqankwN2Z1dmtoNmc.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Inter Turku vs KuPS (Vịt Nướng) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5NjM1Njc5c2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2RudGp6YWNtcTlycDZqZGRqZ2FiZjZ2ODA.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:30 31/08 Lecce vs AS Roma (TRÚC BẠCH) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5NzEzNjAyc245bGgxZ3Npa2Q4c2Y2YWVuaGY5dnBvcWRwZnM3bjQ3bmExYzdmODRpYzgwa3gzMzQ.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "00:30 01/09 Osasuna vs Getafe (Lẩu Ếch) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5NzMyNzE3c2E4bGNhNmE5OHVqZ2t0Nm13MnQ2cGF0cWRwYjRqNXM1eGtydjZycXF1bnRnNTQwazQ.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "01:45 01/09 Atalanta vs Bologna (Sư Tử Trắng) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5NzEzNjA3c2g5dmhtcXZyMjZlcTRtdjJ3YWw5bDZyaWRlYzZ0NzZoMXljYjR0dW80ZmNuMzI5MnQ.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "02:00 01/09 Aston Villa vs Arsenal (TIGER) [flv]",
+      "streamUrl": "https://cdnflv.xbdbotv.live/live/ZjE5NzIyMTkyc2QwbjJucHM3enNmbmlwaWdvdHcyOGw3eGRudGlhdWM1aWczdGUyMWUyZjBteTc3Yzg.flv",
+      "group": "🔴 BIA ÔM TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:30 31/08 Okinawa SV vs Azul Claro Numazu (Cris) (FHD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "16:30 31/08 Okinawa SV vs Azul Claro Numazu (Cris) (HD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:10 31/08 Japan vs Qatar (Titan) (FHD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "17:10 31/08 Japan vs Qatar (Titan) (HD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:30 31/08 Lecce vs AS Roma (Saitama) (FHD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:30 31/08 Lecce vs AS Roma (Saitama) (HD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Persib Bandung vs Manila Digger FC (Saitama) (FHD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "19:00 31/08 Persib Bandung vs Manila Digger FC (Saitama) (HD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:30 31/08 China vs Lebanon (Naruto) (FHD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "18:30 31/08 China vs Lebanon (Naruto) (HD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/6a77144762ca98f0944094c0.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Greece vs Spain (Naruto) (FHD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    },
+    {
+      "name": "23:00 31/08 Greece vs Spain (Naruto) (HD) [flv]",
+      "streamUrl": "https://playback.livetl001.com/live/6a77144762ca98f0944094c0.flv",
+      "group": "🔴 GÀ VÀNG TV",
+      "reason": "unsupported-flv"
+    }
+  ]
+}

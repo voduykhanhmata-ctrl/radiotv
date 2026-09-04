@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "source": "https://tinhlagi.pro/tv.json",
+  "policy": "Không đưa vào RadioTV 0.1 vì BASS/BASSHLS không hỗ trợ. Không lưu chỉ dẫn hoặc khóa DRM.",
+  "entries": [
+    {
+      "name": "HBO",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "hbohd",
+      "reason": "drm"
+    },
+    {
+      "name": "Cinemax HD",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "cinemaxhd",
+      "reason": "drm"
+    },
+    {
+      "name": "Cinema World",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "cinemaworldhd",
+      "reason": "drm"
+    },
+    {
+      "name": "Box Movie 1",
+      "streamUrl": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "boxmovie1",
+      "reason": "drm"
+    },
+    {
+      "name": "Hollywood Classics",
+      "streamUrl": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "hollywoodclassics",
+      "reason": "drm"
+    },
+    {
+      "name": "Box Hits",
+      "streamUrl": "https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "boxhits",
+      "reason": "drm"
+    },
+    {
+      "name": "Warner TV",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "warnertvhd",
+      "reason": "drm"
+    },
+    {
+      "name": "Animal Planet",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "animalhd",
+      "reason": "drm"
+    },
+    {
+      "name": "Discovery",
+      "streamUrl": "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "discoveryhd",
+      "reason": "drm"
+    },
+    {
+      "name": "Discovery Asia",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "discoveryasiahd",
+      "reason": "drm"
+    },
+    {
+      "name": "AXN HD",
+      "streamUrl": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "axnhd",
+      "reason": "drm"
+    },
+    {
+      "name": "DMAX",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "dmax",
+      "reason": "drm"
+    },
+    {
+      "name": "BBC Earth",
+      "streamUrl": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd",
+      "group": "⭐ KÊNH YÊU THÍCH",
+      "epgId": "bbcearth",
+      "reason": "drm"
+    },
+    {
+      "name": "Cartoon Network HD",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "cartoonhd",
+      "reason": "drm"
+    },
+    {
+      "name": "Cartoonito",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "boomerang",
+      "reason": "drm"
+    },
+    {
+      "name": "Dreamworks",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "dreamworks",
+      "reason": "drm"
+    },
+    {
+      "name": "BBC Lifestyle",
+      "streamUrl": "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "bbclifestyle",
+      "reason": "drm"
+    },
+    {
+      "name": "BBC Cbeebies",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "cbeebies",
+      "reason": "drm"
+    },
+    {
+      "name": "BBC World News",
+      "streamUrl": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "bbcworldnews",
+      "reason": "drm"
+    },
+    {
+      "name": "Bloomberg",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "bloomberg",
+      "reason": "drm"
+    },
+    {
+      "name": "CNN",
+      "streamUrl": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "cnn",
+      "reason": "drm"
+    },
+    {
+      "name": "ABC Australia",
+      "streamUrl": "https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "abcaustralia",
+      "reason": "drm"
+    },
+    {
+      "name": "Fashion TV",
+      "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "fashionhd",
+      "reason": "drm"
+    },
+    {
+      "name": "TLC",
+      "streamUrl": "https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd",
+      "group": "🌐 Quốc Tế VIP",
+      "epgId": "tlchd",
+      "reason": "drm"
+    },
+    {
+      "name": "Music Box",
+      "streamUrl": "https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd",
+      "group": "📦 In The Box",
+      "epgId": "musicbox",
+      "reason": "drm"
+    },
+    {
+      "name": "Woman",
+      "streamUrl": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd",
+      "group": "📦 In The Box",
+      "epgId": "woman",
+      "reason": "drm"
+    },
+    {
+      "name": "SCTV15",
+      "streamUrl": "https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd",
+      "group": "📺 SCTV",
+      "epgId": "sctv15hd",
+      "reason": "drm"
+    },
+    {
+      "name": "SCTV17",
+      "streamUrl": "https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd",
+      "group": "📺 SCTV",
+      "epgId": "sctv17hd",
+      "reason": "drm"
+    },
+    {
+      "name": "SCTV22",
+      "streamUrl": "https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd",
+      "group": "📺 SCTV",
+      "epgId": "sctv22hd",
+      "reason": "drm"
+    }
+  ]
+}

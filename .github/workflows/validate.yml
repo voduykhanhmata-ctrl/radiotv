@@ -1,0 +1,44 @@
+name: Validate RadioTV
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        architecture: [x64, x86]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          architecture: ${{ matrix.architecture }}
+      - run: python -B tools/validate.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: validation-${{ matrix.architecture }}
+          path: work/validation/*.json
+  package:
+    needs: test
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: validation-*
+          merge-multiple: true
+          path: work/validation
+      - run: python -B tools/build_dev_package.py
+      - run: python -B tools/build_dev_package.py --source
+      - uses: actions/upload-artifact@v4
+        with:
+          name: RadioTV-0.1-candidate
+          path: dist/*

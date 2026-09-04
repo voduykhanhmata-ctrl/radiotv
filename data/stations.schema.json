@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/radiotv/stations.schema.json",
+  "title": "RadioTV station catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "curator", "provenance", "importedAt", "stations"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "curator": {"type": "string", "minLength": 1},
+    "provenance": {"type": "string", "minLength": 1},
+    "importedAt": {"type": "string", "format": "date"},
+    "stations": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/station"}
+    }
+  },
+  "$defs": {
+    "station": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id", "name", "streamUrl", "country", "tags", "category",
+        "enabled", "availabilityNote", "verification"
+      ],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+        "name": {"type": "string", "minLength": 1},
+        "streamUrl": {"type": "string", "pattern": "^https?://"},
+        "country": {"type": "string", "pattern": "^[A-Z]{2}$"},
+        "tags": {
+          "type": "array",
+          "items": {"type": "string", "minLength": 1},
+          "uniqueItems": true
+        },
+        "category": {"enum": ["tv", "radio", "sport"]},
+        "enabled": {"type": "boolean"},
+        "availabilityNote": {"type": "string"},
+        "verification": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["status", "checkedAt", "detail"],
+          "properties": {
+            "status": {
+              "enum": ["unverified", "reachable", "playback-confirmed", "failed"]
+            },
+            "checkedAt": {"type": ["string", "null"]},
+            "detail": {"type": "string"}
+          }
+        }
+      }
+    }
+  }
+}
